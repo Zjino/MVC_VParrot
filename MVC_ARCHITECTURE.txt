@@ -1,0 +1,96 @@
+MVC VPerroGarage :
+.
+├── admin
+│   ├── assets
+│   │   ├── CSS
+│   │   │   ├── HomeStyle.css
+│   │   │   ├── Login.css
+│   │   │   ├── [vide]
+│   │   │   ├── [vide]
+│   │   │   └── [vide]
+│   │   ├── images
+│   │   └── JS
+│   │       ├── login.js
+│   │       ├── [vide]
+│   │       ├── [vide]
+│   │       └── [vide]
+│   ├── controllers
+│   │   ├── AddController.php
+│   │   ├── DeleteControtroller.php
+│   │   ├── DestroyController.php
+│   │   ├── EditController.php
+│   │   ├── HomeController.php
+│   │   ├── LoginController.php
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   └── [vide]
+│   ├── models
+│   │   ├── AddModel.php
+│   │   ├── DeleteModel.php
+│   │   ├── EditModel.php
+│   │   ├── LoginModel.php
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   └── [vide]
+│   ├── views
+│   │   ├── AddView.php
+│   │   ├── DeleteView.php
+│   │   ├── DestroyView.php
+│   │   ├── EditView.php
+│   │   ├── HeaderView.php
+│   │   ├── HomeView.php
+│   │   ├── LoginView.php
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   └── [vide]
+│   ├── [vide]
+│   └── [vide]
+│*******************************
+├── client
+│   ├── assets
+│   │   ├── CSS
+│   │   │   ├── filter.css
+│   │   │   ├── modals.css
+│   │   │   ├── schedule.css
+│   │   │   ├── style.css
+│   │   │   ├── [vide]
+│   │   │   ├── [vide]
+│   │   │   └── [vide]
+│   │   ├── images
+│   │   └── JS
+│   │       ├── filter.js
+│   │       ├── modal.js
+│   │       ├── [vide]
+│   │       ├── [vide]
+│   │       └── [vide]
+│   ├── controllers
+│   │   ├── HomeController.php
+│   │   ├── [vide]
+│   │   ├── [vide]
+│   │   └── [vide]
+│   ├── models
+│   │   ├── [vide]
+│   │   └── [vide]
+│   └── views
+│       ├── AboutView.php
+│       ├── ContactView.php
+│       ├── FooterView.php
+│       ├── HeaderView.php
+│       ├── HeadView.php
+│       ├── HomeView.php
+│       ├── Schedule.txt
+│       ├── ServiceView.php
+│       ├── USedCardView.php
+│       ├── [vide]
+│       ├── [vide]
+│       └── [vide]
+├── services
+│   ├── ServiceConnexion.php
+│   ├── ServiceModele.php
+│   ├── [vide]
+│   └── [vide]
+├── config.php
+└── index.php

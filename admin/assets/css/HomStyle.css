@@ -1,0 +1,19 @@
+ /* Pour les petits écrans, les images seront plus grandes */
+ @media (max-width: 768px) {
+     .small-screen-image {
+         width: 500%;
+         /* Ajuste la largeur à 100% du conteneur parent */
+         max-height: 500px;
+         /* Limite la hauteur pour éviter que les images ne deviennent trop grandes */
+     }
+ }
+
+ /* Pour les écrans de bureau uniquement */
+ @media (min-width: 769px) {
+     .large-screen-image {
+         max-width: 80px;
+         /* Ajustez la largeur maximale selon vos besoins */
+         height: auto;
+         /* Rétablissez la hauteur automatique pour maintenir les proportions */
+     }
+ }

@@ -1,0 +1,5 @@
+{
+  "monday": "13h-18h ",
+  "tueToFri": "10h-18h",
+  "saturday": "10h-18h"
+}
